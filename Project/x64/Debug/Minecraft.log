@@ -1,0 +1,5 @@
+﻿  main.cpp
+LINK : warning LNK4098: Standardbibliothek "LIBCMT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+LINK : warning LNK4098: Standardbibliothek "MSVCRT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+glew32s.lib(glew.obj) : warning LNK4099: PDB "vc120.pdb" wurde nicht mit "glew32s.lib(glew.obj)" oder an "C:\Users\mmach\OneDrive\Dokumente\C++ Dev\OpenGL\Minecraft\x64\Debug\vc120.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+  Minecraft.vcxproj -> C:\Users\mmach\OneDrive\Dokumente\C++ Dev\OpenGL\Minecraft\x64\Debug\Minecraft.exe
